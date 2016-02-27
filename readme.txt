@@ -34,7 +34,7 @@ A. Bogdanov, L. R. Knudsen, G. Leander, C. Paar, A. Poschmann, M. J. B. Robshaw,
 C. Vikkelsoe. PRESENT: An Ultra-Lightweight Block Cipher. CHES Conference 2007.
 
 
-This Codeplex project consists of the following source code files:
+This project consists of the following source code files:
 
 present_encrypt.v
 present_encrypt_pbox.v
