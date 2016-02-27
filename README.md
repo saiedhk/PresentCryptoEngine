@@ -1,5 +1,5 @@
 # PresentCryptoEngine
-Present Crypto Engine in Verilog
+PRESENT Crypto Engine in Verilog
 
 This project presents a hardware crypto engine for the PRESENT block cipher, written in 
 synthesizable Verilog.
